@@ -7,13 +7,13 @@
 A command line tool that take a country name as parameter and give the public holiday of the country for the current year
 
 ### Installation
-> npm install @piralimic/holidates-cli
+> $ npm install @piralimic/holidates-cli
 
 ### How to use
-> holidates [country-name]
+> $ holidates [country-name]
 
 ### Example of use :
-> holidates switzerland
+> $ holidates switzerland
 ```
 2019-01-01 : New Year's Day
 2019-01-02 : St. Berchtold's Day
