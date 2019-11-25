@@ -1,6 +1,6 @@
 # Node.JS: Holidates CLI
-- NPM : [@piralimic/holidates-cli](https://www.npmjs.com/package/@piralimic/holidates-cli "holidates v1.0.1")
-- Version : 1.0.1
+- NPM : [@piralimic/holidates-cli](https://www.npmjs.com/package/@piralimic/holidates-cli "holidates v1.1.1")
+- Version : 1.1.1
 - Author : Michaël Pirali
 
 ## My first tool, with Node.JS
@@ -34,6 +34,9 @@ A command line tool that take a country name as parameter and give the public ho
 2019-12-08 : Immaculate Conception
 2019-12-25 : Christmas Day
 ```
+
+## Last changes (version 1.1.1)
+- if `holidates` is launched without parameter, user will be asking to give a country name by prompt message
 
 ### BeCode.org challenge
 - Repository : [...]-CLI (name as you want with CLI)

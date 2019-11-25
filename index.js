@@ -5,6 +5,7 @@ console.log("Hello, my name is Michaël Pirali !");
 const readlineSync = require("readline-sync");
 const { getCode, getName } = require('country-list');
 const axios = require('axios');
+let countryCode;
 
 // Ask user to enter a valid country name, the function keep asking until the name is correct
 function getUserCountryCode(){
@@ -18,7 +19,9 @@ function getUserCountryCode(){
 
 // Get the argument given by the user from console command
 // Example $ holidates switzerland
-let countryCode = getCode(process.argv[2]);
+if(process.argv[2]){
+  countryCode = getCode(process.argv[2]);
+}
 
 if(countryCode == null){
   countryCode = getUserCountryCode();
