@@ -1,6 +1,6 @@
 # Node.JS: Holidates CLI
-- NPM : [@piralimic/holidates-cli](https://www.npmjs.com/package/@piralimic/holidates-cli "holidates v1.0.0")
-- Version : 1.0.0
+- NPM : [@piralimic/holidates-cli](https://www.npmjs.com/package/@piralimic/holidates-cli "holidates v1.0.1")
+- Version : 1.0.1
 - Author : Michaël Pirali
 
 ## My first tool, with Node.JS

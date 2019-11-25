@@ -1,6 +1,6 @@
 {
   "name": "@piralimic/holidates-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "command line tool that take a country name as parameter and give the public holiday of the country for the current year",
   "main": "index.js",
   "bin": {
