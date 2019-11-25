@@ -47,4 +47,4 @@ A command line tool that take a country name as parameter and give the public ho
 - NPM : [axios](https://www.npmjs.com/package/axios "NPM axios")
 - NPM : [readlineSync](https://www.npmjs.com/package/readline-sync "NPM readlineSync")
 - process.argv
-- [Build](https://developer.okta.com/blog/2019/06/18/command-line-app-with-nodejs "{okta}") a Command Line Application with Node.js
+- HOW TO : [Build](https://developer.okta.com/blog/2019/06/18/command-line-app-with-nodejs "{okta}") a Command Line Application with Node.js
