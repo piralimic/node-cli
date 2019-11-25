@@ -1,0 +1,35 @@
+{
+  "name": "@piralimic/holidates-cli",
+  "version": "1.0.0",
+  "description": "command line tool that take a country name as parameter and give the public holiday of the country for the current year",
+  "main": "index.js",
+  "bin": {
+    "holidates": "./index.js"
+  },
+  "dependencies": {
+    "country-list": "^2.2.0",
+    "axios": "^0.19.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piralimic/node-cli.git"
+  },
+  "keywords": [
+    "country",
+    "holidays",
+    "command",
+    "line",
+    "tool"
+  ],
+  "author": "Michaël Pirali",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/piralimic/node-cli/issues"
+  },
+  "homepage": "https://github.com/piralimic/node-cli#readme"
+}
