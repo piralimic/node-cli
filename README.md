@@ -2,12 +2,18 @@
 - NPM : [@piralimic/holidates-cli](https://www.npmjs.com/package/@piralimic/holidates-cli "holidates v1.0.0") (version 1.0.0)
 
 ## My first tool, with Node.JS
-- Description : command line tool that take a country name as parameter and give the public holiday of the country for the current year
-- NPM installation : `npm install @piralimic/holidates-cli`
-- Use : `holidates [country-name]`
 
-## Example of use :
-- `holidates switzerland`
+### Description
+A command line tool that take a country name as parameter and give the public holiday of the country for the current year
+
+### Installation
+`npm install @piralimic/holidates-cli`
+
+### How to use
+`holidates [country-name]`
+
+### Example of use :
+`holidates switzerland`
 ```
 2019-01-01 : New Year's Day
 2019-01-02 : St. Berchtold's Day
